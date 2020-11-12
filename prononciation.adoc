@@ -1,0 +1,12 @@
+= Les sons du français
+
+== Voyelles
+
+[cols=",a,,",options="header"]
+|===
+| Transcription | Son | Letters | Examples
+| [i] | Here audio:https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/asset/audio/2191_vignette_-i-.mp3[] | i | fit
+|===
+
+
+audio::https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/asset/audio/2191_vignette_-i-.mp3[]
